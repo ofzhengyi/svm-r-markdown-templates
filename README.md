@@ -9,7 +9,17 @@ install.packages("stevetemplates")
 ### Steve's R Markdown Templates (Legacy Repo)
 
 
-I love R Markdown and effectively abandoned LaTeX for it. I have a suite of R Markdown templates for 1) academic manuscripts, 2) Beamer presentations, and 3) academic syllabi. You can find them here.
+I love R Markdown and effectively abandoned LaTeX for it. I have a suite of R Markdown templates for 1) academic manuscripts, 2) Beamer presentations, 3) academic syllabi, and 4) Chinese CRM documentation. You can find them here.
+
+### New: Chinese CRM Documentation Templates
+
+The `crm-example/` directory contains Chinese language templates for Customer Relationship Management (CRM) system documentation, including:
+
+- **CRM Implementation Guide** (CRM实施指南) - Comprehensive guide for CRM system implementation
+- **CRM System Documentation** (CRM系统文档) - Detailed technical and business documentation
+- Chinese bibliography support with academic references
+
+These templates demonstrate R Markdown's capability for creating professional Chinese language documents with proper font support using XeLaTeX.
  
 ### Related Reading
 
